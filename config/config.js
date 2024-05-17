@@ -10,7 +10,7 @@ const {
 
 
 
-module .exports = {
+module.exports = {
   "development": {
     "username": DB_USERNAME,
     "password": DB_PASSWORD,
